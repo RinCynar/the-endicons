@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<resources>
+
+    
+    <item name="the endicons" drawable="ic_launcher" />
+
+    
+    <category title="没有分类" />
+
+    
+    <item name="Cytoid" drawable="icond3dfc085" />
+
+    
+    <item name="阿里云盘" drawable="icon2bc4fa7d" />
+
+    
+    <item name="雹" drawable="icon4dd5c8db" />
+
+    
+    <item name="bilibili" drawable="icon0dd80593" />
+
+    
+    <item name="电影大师" drawable="icon167c5f30" />
+
+    
+    <item name="音乐标签" drawable="icon6567ab77" />
+
+    
+    <item name="网易云音乐" drawable="icon9bccb741" />
+
+    
+    <item name="快对" drawable="iconf46958a1" />
+
+    
+    <item name="酷安" drawable="icon16cef494" />
+
+    
+    <item name="卡音" drawable="iconbe005253" />
+
+    
+    <item name="椒盐音乐" drawable="iconc26f211e" />
+
+    
+    <item name="计算器" drawable="icon4ebf520d" />
+
+    
+    <item name="花瓣邮箱" drawable="iconf06b4946" />
+
+    
+    <item name="黑阈" drawable="icon1eea7cc2" />
+
+    
+    <item name="大白鲨2" drawable="icona5fa21e7" />
+
+    
+    <item name="彩云小梦" drawable="iconad352c79" />
+
+    
+    <item name="快手" drawable="icon7b04be28" />
+
+    
+    <item name="快手极速版" drawable="iconff32f500" />
+
+    
+    <item name="漫画铺" drawable="iconfa7dc4fc" />
+
+    
+    <item name="美团" drawable="icon195e07f4" />
+
+    
+    <item name="明日方舟" drawable="icon98303e1a" />
+
+    
+    <item name="拼多多" drawable="icona9e93c64" />
+
+    
+    <item name="起飞VPN" drawable="icond8ea4e6d" />
+
+    
+    <item name="清浊" drawable="icona45a7f38" />
+
+    
+    <item name="权限狗" drawable="iconc35d55fe" />
+
+    
+    <item name="设定" drawable="icon8818160b" />
+
+    
+    <item name="时钟" drawable="icon24ef874d" />
+
+    
+    <item name="水印大法" drawable="icon7c255094" />
+
+    
+    <item name="淘宝" drawable="icond1a7c399" />
+
+    
+    <item name="微博" drawable="icon1c0afb67" />
+
+    
+    <item name="微信" drawable="iconc7a1b68b" />
+
+    
+    <item name="文件" drawable="icon53540307" />
+
+    
+    <item name="闲鱼" drawable="icon94c68729" />
+
+    
+    <item name="相册" drawable="icon97cf6711" />
+
+    
+    <item name="相机" drawable="icon4dca2b54" />
+
+    
+    <item name="一个木函" drawable="icon11a16181" />
+
+    
+    <item name="录音机" drawable="iconeb0ebc98" />
+
+    
+    <item name="lantern" drawable="iconf0de9bd2" />
+
+    
+    <item name="电话" drawable="icona11c05e4" />
+
+    
+    <item name="通讯录" drawable="icon68756acf" />
+
+    
+    <item name="信息" drawable="icon375fc308" />
+
+    
+    <item name="银河VPN" drawable="icon9003e273" />
+
+    
+    <item name="用Shizuku激活" drawable="icon1ae04046" />
+
+    
+    <item name="游戏增强器" drawable="icon368790a8" />
+
+    
+    <item name="原子加速器" drawable="icon346503d9" />
+
+    
+    <item name="自动跳过" drawable="icon4771016e" />
+
+    
+    <item name="做你的图标包" drawable="iconaad76f41" />
+
+    
+    <item name="Android" drawable="icon677e530f" />
+
+    
+    <item name="Shizuku" drawable="icond7630ff3" />
+
+    
+    <item name="Surf VPN" drawable="iconae4a44fd" />
+
+    
+    <item name="V2ray VPN" drawable="icon2144c1b2" />
+
+    
+    <item name="一甜相机" drawable="icon140c8a2b" />
+
+    
+    <item name="QQ" drawable="iconab45f53c" />
+
+    
+    <item name="All Video Downloader" drawable="icon81879bb9" />
+
+    
+    <item name="Hearusy Spectrum" drawable="icona9c94d79" />
+
+    
+    <item name="GitHub" drawable="icon7476d502" />
+
+    
+    <item name="Edge UI" drawable="iconc4d53c3c" />
+
+    
+    <item name="DarQ" drawable="icon38214251" />
+
+    
+    <item name="Bigjpg" drawable="iconc584e837" />
+
+    
+    <item name="BandLab" drawable="icon91a5f33b" />
+
+    
+    <item name="AriaNgGUI" drawable="icon8226e0e8" />
+
+    
+    <item name="App Rec" drawable="icon266a3f9c" />
+
+    
+    <item name="LOFTER" drawable="icon00157166" />
+
+    
+    <item name="Lithium" drawable="icon524a0418" />
+
+    
+    <item name="KLWP" drawable="iconc1084c0c" />
+
+    
+    <item name="KLWP Pro" drawable="icon83fde7c1" />
+
+    
+    <item name="Snapmod" drawable="icon96abbf79" />
+
+    
+    <item name="Simplenote" drawable="iconded5173a" />
+
+    
+    <item name="Psiphon Pro" drawable="icon4fbcfd77" />
+
+    
+    <item name="PENUP" drawable="icon57505b16" />
+
+    
+    <item name="Passport" drawable="icon2d3da63d" />
+
+    
+    <item name="Office" drawable="icon89e49ffe" />
+
+    
+    <item name="Music Center" drawable="icon22fb783a" />
+
+    
+    <item name="Moises" drawable="icon55a02c29" />
+
+    
+    <item name="XAPK Installer" drawable="icon0dba3454" />
+
+    
+    <item name="WPS便签" drawable="icon65abdd8f" />
+
+    
+    <item name="Via" drawable="icondb03cbb9" />
+
+    
+    <item name="Twitter" drawable="icon1d029520" />
+</resources>

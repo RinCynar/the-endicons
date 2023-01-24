@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<resources>
+
+    <scale factor="1.0" />
+
+    <iconback />
+
+    <iconmask />
+
+    <iconupon />
+
+    <!--the endicons-->
+    <item component="ComponentInfo{cn.ommiao.iconpacktemplate/cn.ommiao.iconpacktemplate.MainActivity}" drawable="ic_launcher" />
+
+    <!--Cytoid-->
+    <item component="ComponentInfo{me.tigerhix.cytoid/me.tigerhix.cytoid.CytoidPluginActivity}" drawable="icond3dfc085" />
+
+    <!--阿里云盘-->
+    <item component="ComponentInfo{com.alicloud.databox/com.alicloud.databox.launcher.splash.SplashActivity}" drawable="icon2bc4fa7d" />
+
+    <!--雹-->
+    <item component="ComponentInfo{com.aistra.hail/com.aistra.hail.ui.main.MainActivity}" drawable="icon4dd5c8db" />
+
+    <!--哔哩哔哩-->
+    <item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivityV2}" drawable="icon0dd80593" />
+
+    <!--电影大师-->
+    <item component="ComponentInfo{com.sonymobile.cinemapro/com.sonymobile.cinemapro.CinemaProActivity}" drawable="icon167c5f30" />
+
+    <!--音乐标签-->
+    <item component="ComponentInfo{com.xjcheng.musictageditor/com.xjcheng.musictageditor.MainActivity}" drawable="icon6567ab77" />
+
+    <!--网易云音乐-->
+    <item component="ComponentInfo{com.netease.cloudmusic/com.netease.cloudmusic.activity.IconChangeDefaultAlias}" drawable="icon9bccb741" />
+
+    <!--快对-->
+    <item component="ComponentInfo{com.kuaiduizuoye.scan/com.kuaiduizuoye.scan.activity.init.InitActivity}" drawable="iconf46958a1" />
+
+    <!--酷安-->
+    <item component="ComponentInfo{com.coolapk.market/com.coolapk.market.view.main.MainActivity}" drawable="icon16cef494" />
+
+    <!--卡音-->
+    <item component="ComponentInfo{com.janz.music/com.janz.music.MainActivity}" drawable="iconbe005253" />
+
+    <!--椒盐音乐-->
+    <item component="ComponentInfo{com.salt.music/com.salt.music.ui.MainActivity}" drawable="iconc26f211e" />
+
+    <!--计算器-->
+    <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="icon4ebf520d" />
+
+    <!--花瓣邮箱-->
+    <item component="ComponentInfo{com.huawei.petalmail/com.huawei.mail.core.welcome.WelcomeActivity}" drawable="iconf06b4946" />
+
+    <!--黑阈-->
+    <item component="ComponentInfo{me.piebridge.brevent/me.piebridge.brevent.ui.BreventActivity}" drawable="icon1eea7cc2" />
+
+    <!--大白鲨2-->
+    <item component="ComponentInfo{com.neptune.whiteshark/com.neptune.whiteshark.ui.MainActivity}" drawable="icona5fa21e7" />
+
+    <!--彩云小梦-->
+    <item component="ComponentInfo{com.dreamilyai.app/com.dreamilyai.dreamily_ai.MainActivity}" drawable="iconad352c79" />
+
+    <!--快手-->
+    <item component="ComponentInfo{com.smile.gifmaker/com.yxcorp.gifshow.HomeActivity}" drawable="icon7b04be28" />
+
+    <!--快手极速版-->
+    <item component="ComponentInfo{com.kuaishou.nebula/com.yxcorp.gifshow.HomeActivity}" drawable="iconff32f500" />
+
+    <!--漫画铺-->
+    <item component="ComponentInfo{comic.mhp.ebook/com.biquge.ebook.app.ui.activity.MainActivity}" drawable="iconfa7dc4fc" />
+
+    <!--美团-->
+    <item component="ComponentInfo{com.sankuai.meituan/com.meituan.android.pt.homepage.activity.MainActivity}" drawable="icon195e07f4" />
+
+    <!--明日方舟-->
+    <item component="ComponentInfo{com.hypergryph.arknights/com.u8.sdk.U8UnityContext}" drawable="icon98303e1a" />
+
+    <!--拼多多-->
+    <item component="ComponentInfo{com.xunmeng.pinduoduo/com.xunmeng.pinduoduo.ui.activity.MainFrameActivity}" drawable="icona9e93c64" />
+
+    <!--起飞VPN-->
+    <item component="ComponentInfo{com.ambrose.overwall/com.ambrose.overwall.WelcomeActivity}" drawable="icond8ea4e6d" />
+
+    <!--清浊-->
+    <item component="ComponentInfo{com.farplace.qingzhuo/com.farplace.qingzhuo.views.SplashActivity}" drawable="icona45a7f38" />
+
+    <!--权限狗-->
+    <item component="ComponentInfo{com.web1n.permissiondog/com.web1n.appops2.activity.AppOpsListActivity}" drawable="iconc35d55fe" />
+
+    <!--设定-->
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="icon8818160b" />
+
+    <!--时钟-->
+    <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="icon24ef874d" />
+
+    <!--水印大法-->
+    <item component="ComponentInfo{com.silver.shuiyin/com.silver.shuiyin.LoadActivity}" drawable="icon7c255094" />
+
+    <!--淘宝-->
+    <item component="ComponentInfo{com.taobao.taobao/com.taobao.tao.welcome.Welcome}" drawable="icond1a7c399" />
+
+    <!--微博-->
+    <item component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}" drawable="icon1c0afb67" />
+
+    <!--微信-->
+    <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="iconc7a1b68b" />
+
+    <!--文件-->
+    <item component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="icon53540307" />
+
+    <!--闲鱼-->
+    <item component="ComponentInfo{com.taobao.idlefish/com.taobao.fleamarket.home.activity.InitActivity}" drawable="icon94c68729" />
+
+    <!--相册-->
+    <item component="ComponentInfo{com.sonyericsson.album/com.sonyericsson.album.MainActivity}" drawable="icon97cf6711" />
+
+    <!--相机-->
+    <item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="icon4dca2b54" />
+
+    <!--一个木函-->
+    <item component="ComponentInfo{com.One.WoodenLetter/com.One.WoodenLetter.LetterActivity}" drawable="icon11a16181" />
+
+    <!--录音机-->
+    <item component="ComponentInfo{com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.LauncherActivity}" drawable="iconeb0ebc98" />
+
+    <!--蓝灯-->
+    <item component="ComponentInfo{org.getlantern.lantern/org.getlantern.lantern.MainActivity}" drawable="iconf0de9bd2" />
+
+    <!--拨打电话-->
+    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="icona11c05e4" />
+
+    <!--通讯录-->
+    <item component="ComponentInfo{com.goodwy.contacts/com.goodwy.contacts.activities.SplashActivity.Orange}" drawable="icon68756acf" />
+
+    <!--信息功能-->
+    <item component="ComponentInfo{com.fm.mms.sony/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="icon375fc308" />
+
+    <!--银河VPN-->
+    <item component="ComponentInfo{com.galaxylab.ss/com.galaxylab.android.SplashActivity}" drawable="icon9003e273" />
+
+    <!--用Shizuku激活-->
+    <item component="ComponentInfo{com.mihotel.activatebrevent/com.mihotel.activatebrevent.activity.MainActivity}" drawable="icon1ae04046" />
+
+    <!--游戏增强器-->
+    <item component="ComponentInfo{com.sonymobile.gameenhancer/com.sonymobile.gameenhancer.common.MainActivity}" drawable="icon368790a8" />
+
+    <!--原子加速器-->
+    <item component="ComponentInfo{net.lab.flying/io.github.trojan_gfw.igniter.MainActivity}" drawable="icon346503d9" />
+
+    <!--自动跳过-->
+    <item component="ComponentInfo{top.xjunz.automator/top.xjunz.automator.main.MainActivity}" drawable="icon4771016e" />
+
+    <!--做你的图标包-->
+    <item component="ComponentInfo{cn.ommiao.iconpackcreator/cn.ommiao.iconpackcreatorpro.MainActivity}" drawable="iconaad76f41" />
+
+    <!--Shizuku-->
+    <item component="ComponentInfo{moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity}" drawable="icond7630ff3" />
+
+    <!--Surf VPN-->
+    <item component="ComponentInfo{com.xfx.surfvpn/com.xfx.surfvpn.MainActivity}" drawable="iconae4a44fd" />
+
+    <!--V2ray VPN-->
+    <item component="ComponentInfo{free.v2ray.proxy.VPN/com.github.shadowsocks.MainActivity}" drawable="icon2144c1b2" />
+
+    <!--一甜相机-->
+    <item component="ComponentInfo{com.kwai.m2u/com.kwai.m2u.launch.M2uRouterActivity}" drawable="icon140c8a2b" />
+
+    <!--QQ-->
+    <item component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}" drawable="iconab45f53c" />
+
+    <!--All Video Downloader-->
+    <item component="ComponentInfo{video.downloader.app.downlandvideo.privatebrowser/video.downloader.app.downlandvideo.privatebrowser.ui.activities.SplashActivity}" drawable="icon81879bb9" />
+
+    <!--Hearusy Spectrum-->
+    <item component="ComponentInfo{com.hearusy.spectrum/com.hearusy.spectrum.MainActivity}" drawable="icona9c94d79" />
+
+    <!--GitHub-->
+    <item component="ComponentInfo{com.github.android/com.github.android.activities.MainActivity}" drawable="icon7476d502" />
+
+    <!--Edge UI-->
+    <item component="ComponentInfo{edgeui.kustom.pack/org.kustom.api.dashboard.DashboardActivity}" drawable="iconc4d53c3c" />
+
+    <!--DarQ-->
+    <item component="ComponentInfo{com.kieronquinn.app.darq/com.kieronquinn.app.darq.ui.activities.DarqActivity}" drawable="icon38214251" />
+
+    <!--Bigjpg 图片放大-->
+    <item component="ComponentInfo{com.bigjpg/com.bigjpg.ui.activity.SplashActivity}" drawable="iconc584e837" />
+
+    <!--BandLab-->
+    <item component="ComponentInfo{com.bandlab.bandlab/com.bandlab.navigation.entry.NavigationActivity}" drawable="icon91a5f33b" />
+
+    <!--AriaNgGUI-->
+    <item component="ComponentInfo{com.xmader.aria_ng_gui_android/com.xmader.aria_ng_gui_android.MainActivity}" drawable="icon8226e0e8" />
+
+    <!--App Rec-->
+    <item component="ComponentInfo{com.michael.apprec/crc644cb3447ebce302c4.MainActivity}" drawable="icon266a3f9c" />
+
+    <!--LOFTER-->
+    <item component="ComponentInfo{com.lofter.android/com.lofter.android.global.splash.HomeActivity}" drawable="icon00157166" />
+
+    <!--Lithium-->
+    <item component="ComponentInfo{com.faultexception.reader/com.faultexception.reader.MainActivity}" drawable="icon524a0418" />
+
+    <!--KLWP-->
+    <item component="ComponentInfo{org.kustom.wallpaper/org.kustom.app.OnBoardingActivity}" drawable="iconc1084c0c" />
+
+    <!--KLWP Pro-->
+    <item component="ComponentInfo{org.kustom.wallpaper.pro/org.kustom.pro.MainActivity}" drawable="icon83fde7c1" />
+
+    <!--Snapmod-->
+    <item component="ComponentInfo{cn.gavinliu.snapmod/cn.gavinliu.snapmod.ui.SplashActivity}" drawable="icon96abbf79" />
+
+    <!--Simplenote-->
+    <item component="ComponentInfo{com.automattic.simplenote/com.automattic.simplenote.NotesActivity}" drawable="iconded5173a" />
+
+    <!--Psiphon Pro-->
+    <item component="ComponentInfo{com.psiphon3.subscription/com.psiphon3.MainActivity}" drawable="icon4fbcfd77" />
+
+    <!--PENUP-->
+    <item component="ComponentInfo{com.sec.penup/com.sec.penup.ui.SplashActivity}" drawable="icon57505b16" />
+
+    <!--Passport-->
+    <item component="ComponentInfo{cn.ifengge.passport/nome}" drawable="icon2d3da63d" />
+
+    <!--Office-->
+    <item component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}" drawable="icon89e49ffe" />
+
+    <!--Music Center-->
+    <item component="ComponentInfo{com.sony.songpal/com.sony.songpal.app.view.overview.DeviceAndGroupActivity}" drawable="icon22fb783a" />
+
+    <!--Moises-->
+    <item component="ComponentInfo{ai.moises/ai.moises.ui.splashscreen.SplashScreen}" drawable="icon55a02c29" />
+
+    <!--XAPK Installer-->
+    <item component="ComponentInfo{com.valhalla.ps/com.valhalla.ps.presentation.MainActivity}" drawable="icon0dba3454" />
+
+    <!--WPS便签-->
+    <item component="ComponentInfo{cn.wps.note/cn.wps.note.StartActivity}" drawable="icon65abdd8f" />
+
+    <!--Via-->
+    <item component="ComponentInfo{mark.via/mark.via.Shell}" drawable="icondb03cbb9" />
+
+    <!--Twitter-->
+    <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="icon1d029520" />
+</resources>
